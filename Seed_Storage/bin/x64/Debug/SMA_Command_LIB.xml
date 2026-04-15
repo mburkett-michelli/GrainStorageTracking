@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SMA_Command_LIB</name>
+    </assembly>
+    <members>
+        <member name="T:SMA_Command_LIB.SMA">
+            <summary>
+            Class for Creating a Network connection to a SMA enabled scale indicator
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.#ctor(System.String,System.Int32)">
+            <summary>
+            Creates a new connection to the scale
+            </summary>
+            <param name="Address">The IP address of the scale</param>
+            <param name="Port"> The Port Number of the Address</param>
+        </member>
+        <member name="E:SMA_Command_LIB.SMA.ScaleDataRecieved">
+            <summary>
+            Called when Scale Data is recieved
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.OnScaleDataRecieved">
+            <summary>
+            The event handeler that is called when Data from the scale Is Recieved
+            call get the scale data by checking the CurrentScaleData
+            </summary>
+            <param name="e">The Keypress that occured</param>
+        </member>
+        <member name="E:SMA_Command_LIB.SMA.ScaleConnecting">
+            <summary>
+            Called when Scale is Connecting
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.OnScaleConnecting">
+            <summary>
+            The event handeler that is called when Data from the scale Is Recieved
+            call get the scale data by checking the CurrentScaleData
+            </summary>
+            <param name="e">The Keypress that occured</param>
+        </member>
+        <member name="E:SMA_Command_LIB.SMA.ScaleConnected">
+            <summary>
+            Called when Scale is Connected
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.OnScaleConnected">
+            <summary>
+            The event handeler that is called when Data from the scale Is Recieved
+            call get the scale data by checking the CurrentScaleData
+            </summary>
+            <param name="e">The Keypress that occured</param>
+        </member>
+        <member name="E:SMA_Command_LIB.SMA.ScaleDisconnected">
+            <summary>
+            Called when Scale is Disconnected
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.OnScaleDisconnected">
+            <summary>
+            The event handeler that is called when Connection to the scale is broken
+            call get the scale data by checking the CurrentScaleData
+            </summary>
+            <param name="e">The Keypress that occured</param>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.Interval">
+            <summary>
+            The INterval in which the scale is updated
+            </summary>
+        </member>
+        <member name="T:SMA_Command_LIB.SMA.enumConnectionStatus">
+            <summary>
+            The Network Connection Status of the scale
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.enumConnectionStatus.Ok">
+            <summary>
+            Scale Is Connected
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.enumConnectionStatus.Connecting">
+            <summary>
+            Scale Is Not Connected But is trying to Connect
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.enumConnectionStatus.NotConnected">
+            <summary>
+            Scale is Not Connected
+            </summary>
+        </member>
+        <member name="P:SMA_Command_LIB.SMA.CurrentScaleData">
+            <summary>
+            Gets the current Scale Data Recieved from the indicator
+            </summary>
+        </member>
+        <member name="P:SMA_Command_LIB.SMA.IsRunning">
+            <summary>
+            True if the connection is running 
+            </summary>
+        </member>
+        <member name="P:SMA_Command_LIB.SMA.ConnectionStatus">
+            <summary>
+            Gets the status of the Scale Network Connection
+            </summary>
+        </member>
+        <member name="P:SMA_Command_LIB.SMA.ConnectionStatusString">
+            <summary>
+            Gets a Text status of the connection
+            </summary>
+        </member>
+        <member name="T:SMA_Command_LIB.SMA.ScaleData">
+            <summary>
+            Class containg all the current Data Comming from the scale
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.Motion">
+            <summary>
+            return true if the scale is in motion ( Unstable)
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.enumStatus.OK">
+            <summary>
+            Everything is Ok
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.enumStatus.Under">
+            <summary>
+            Scale is Underrange
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.enumStatus.Over">
+            <summary>
+            Scale is OverRange
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.enumStatus.Fail">
+            <summary>
+            Scale is in a faulted State
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.enumStatus.Connecting">
+            <summary>
+            Scale is Trying to connect
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.enumStatus.Disconnected">
+            <summary>
+            Scale is Disconnected
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.CurrentStatus">
+            <summary>
+             The current status of the scale
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.CurWeight">
+            <summary>
+             The Current Weight of the scale
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.NumberofErrorsReadingWeight">
+            <summary>
+            The number of times system was unable to read the weight from the scale consecutively.
+            </summary>
+        </member>
+        <member name="F:SMA_Command_LIB.SMA.ScaleData.InputStatus">
+            <summary>
+            The current State of the inputs of the scale.
+            </summary>
+        </member>
+        <member name="P:SMA_Command_LIB.SMA.ScaleData.CurrentStatusChar">
+            <summary>
+            The Status Character to be sent to the application. If the character is blank then the connection is not present
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.ScaleData.#ctor">
+            <summary>
+            Class for holding the current scale infoemation
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.ScaleData.ResetScaleData">
+            <summary>
+            Resets the scale Data to a default values  
+            CurWeight = 0;
+            CurrentStatus = enumStatus.Connecting;
+            Motion = false;
+            RawWeightString = "";
+            </summary>
+        </member>
+        <member name="P:SMA_Command_LIB.SMA.ScaleData.RawWeightString">
+            <summary>
+            The Last String Of Information comming from the scale just as it was recieved
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.SetOutputState(System.Int32,System.Boolean)">
+            <summary>
+            Turns Relays (1-3) On or Off (True or False)
+            </summary>
+            <param name="RelayNumber"></param>
+            <param name="Relay_State"></param>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.SetAllOutputs(System.Int32)">
+            <summary>
+            Sets the states of all output relays at once
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.ZeroScale">
+            <summary>
+            Zeros the scale
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.Stop">
+            <summary>
+            Stops and closes the connection
+            </summary>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.Start(System.Int32)">
+            <summary>
+            Starts a connection to the indicator
+            </summary>
+            <param name="UpdateRate">The Rate in milliseconds that the scale is poled for the weight</param>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.Connect(System.Int32)">
+            <summary>
+            Starts a connection to the indicator
+            </summary>
+            <param name="UpdateRate">The Rate in milliseconds that the scale is poled for the weight</param>
+        </member>
+        <member name="M:SMA_Command_LIB.SMA.Disconnect">
+            <summary>
+            Stops and closes the connection
+            </summary>
+        </member>
+    </members>
+</doc>

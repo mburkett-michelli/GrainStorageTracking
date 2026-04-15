@@ -1,0 +1,10 @@
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Bindicator\bin\Debug\Bindicator.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Bindicator\bin\Debug\Bindicator.pdb
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Bindicator\obj\Debug\Bindicator.csprojResolveAssemblyReference.cache
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Bindicator\obj\Debug\Bindicator.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Bindicator\obj\Debug\Bindicator.pdb
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Bindicator\bin\Debug\Bindicator.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Bindicator\bin\Debug\Bindicator.pdb
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Bindicator\obj\Debug\Bindicator.csprojResolveAssemblyReference.cache
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Bindicator\obj\Debug\Bindicator.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Bindicator\obj\Debug\Bindicator.pdb

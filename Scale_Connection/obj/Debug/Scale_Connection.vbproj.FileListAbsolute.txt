@@ -1,0 +1,41 @@
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.Resources.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.vbproj.GenerateResource.Cache
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.xml
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\bin\Debug\Scale_Connection.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\bin\Debug\Scale_Connection.pdb
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\bin\Debug\Scale_Connection.xml
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.pdb
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.vbprojResolveAssemblyReference.cache
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\bin\Debug\Scale_Connection.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\bin\Debug\Scale_Connection.pdb
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\bin\Debug\Scale_Connection.xml
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.vbprojResolveAssemblyReference.cache
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.Resources.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.vbproj.GenerateResource.Cache
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.xml
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\Scale_Connection\obj\Debug\Scale_Connection.pdb
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\bin\Debug\Scale_Connection.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\bin\Debug\Scale_Connection.pdb
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\bin\Debug\Scale_Connection.xml
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\obj\Debug\Scale_Connection.Resources.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\obj\Debug\Scale_Connection.vbproj.GenerateResource.Cache
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\obj\Debug\Scale_Connection.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\obj\Debug\Scale_Connection.xml
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\obj\Debug\Scale_Connection.pdb
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\bin\Debug\ErrorLog.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\bin\Debug\ErrorLog.pdb
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\bin\Debug\ErrorLog.xml
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC-Utilities\Scale_Connection_Modules\Scale_Connection\obj\Debug\Scale_Connection.vbprojResolveAssemblyReference.cache
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\bin\Debug\Scale_Connection.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\bin\Debug\Scale_Connection.pdb
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\bin\Debug\Scale_Connection.xml
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.Resources.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.vbproj.GenerateResource.cache
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.vbproj.CoreCompileInputs.cache
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.vbproj.CopyComplete
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.xml
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.pdb
+D:\SourceCode\PC\SeedStorage1_3_0_0\Scale_Connection\obj\Debug\Scale_Connection.vbproj.AssemblyReference.cache

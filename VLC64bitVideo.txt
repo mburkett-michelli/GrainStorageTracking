@@ -1,0 +1,51 @@
+Sent by Copilot:
+To embed VLC Media Player into a Visual Studio 2022 project, you can use the LibVLCSharp library. Here’s a step-by-step guide to help you get started:
+
+Install LibVLCSharp:
+Open your Visual Studio 2022 project.
+Go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution.
+Search for LibVLCSharp and install LibVLCSharp.WinForms (or LibVLCSharp.WPF if you’re using WPF).
+Download VLC:
+Download the VLC media player from the official website.
+Extract the contents and note the path to the libvlc.dll and libvlccore.dll files.
+Initialize LibVLC:
+Add the following code to initialize LibVLC in your form:
+C#
+
+using LibVLCSharp.Shared;
+
+public partial class MainForm : Form
+{
+    private LibVLC _libVLC;
+    private MediaPlayer _mediaPlayer;
+
+    public MainForm()
+    {
+        InitializeComponent();
+        Core.Initialize();
+        _libVLC = new LibVLC();
+        _mediaPlayer = new MediaPlayer(_libVLC);
+        videoView.MediaPlayer = _mediaPlayer;
+    }
+}
+AI-generated code. Review and use carefully. More info on FAQ.
+Add VideoView Control:
+Add a VideoView control to your form. You can do this in the designer or programmatically:
+C#
+
+var videoView = new VideoView
+{
+    Dock = DockStyle.Fill
+};
+Controls.Add(videoView);
+AI-generated code. Review and use carefully. More info on FAQ.
+Play Media:
+Use the following code to play a media file:
+C#
+
+var media = new Media(_libVLC, new Uri("path_to_your_video_file"));
+_mediaPlayer.Play(media);
+AI-generated code. Review and use carefully. More info on FAQ.
+Make sure to replace "path_to_your_video_file" with the actual path to your video file.
+
+This should help you embed VLC Media Player into your Visual Studio 2022 project. If you encounter any issues, feel free to ask!

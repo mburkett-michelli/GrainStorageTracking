@@ -1,0 +1,743 @@
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\bin\Debug\Seed_Storage.exe
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\bin\Debug\Seed_Storage.pdb
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\Seed_Storage.frmMain.resources
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+C:\Users\sean_000\AppData\Local\Temporary Projects\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Shipping.resources
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+E:\Customers\REED BUSH AGG\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csprojResolveAssemblyReference.cache
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csprojResolveAssemblyReference.cache
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.pdb
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.xml
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\bin\Debug\stdole.dll
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+E:\Customers\Piquet Farms\Seed_Storage\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csprojResolveAssemblyReference.cache
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\stdole.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+E:\Customers\Piquet Farms\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csprojResolveAssemblyReference.cache
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+F:\Source_Code\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csprojResolveAssemblyReference.cache
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\VBSourceCode\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\stdole.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\stdole.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+F:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\stdole.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csprojResolveAssemblyReference.cache
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+F:\OneDrive_TS\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\stdole.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.Cache
+D:\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csprojResolveAssemblyReference.cache
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.exe
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\stdole.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.AssemblyReference.cache
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.cache
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CoreCompileInputs.cache
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CopyComplete
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+C:\Users\matt\OneDrive - TOTAL SCALE SERVICE\SourceCode\PC\GIT-GrainInventoryTracking\Seed_Storage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\Seed_Storage.exe
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\Seed_Storage.pdb
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\stdole.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.cache
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CoreCompileInputs.cache
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CopyComplete
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\SMA_Command_LIB.pdb
+D:\SourceCode\PC\SeedStorage-Original\Seed_Storage\bin\Debug\SMA_Command_LIB.xml
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\Seed_Storage.exe
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\Seed_Storage.pdb
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\stdole.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\SMA_Command_LIB.pdb
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\SMA_Command_LIB.xml
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.cache
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CoreCompileInputs.cache
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CopyComplete
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+D:\SourceCode\PC\SeedStorage\Seed_Storage\bin\Debug\CrystalDecisions.Web.dll
+D:\SourceCode\PC\SeedStorage\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.AssemblyReference.cache
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.AssemblyReference.cache
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.cache
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CoreCompileInputs.cache
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+D:\SourceCode\PC\SeedStorage1_2_9_1\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\Seed_Storage.exe.config
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\Seed_Storage.exe
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\Seed_Storage.pdb
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.Shared.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.Web.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\SMA_Command_LIB.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\stdole.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\SMA_Command_LIB.pdb
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\SMA_Command_LIB.xml
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\Interop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\bin\Debug\AxInterop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.AssemblyReference.cache
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Interop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.ResolveComReference.cache
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.Bindicator.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAdjust_Bin.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBinInventory.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCommodities.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCompletedTickets.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmDelay.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCommodities.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAddNewBin.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmCustomers.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditAddCustomer.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditBin.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmEditVariety.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.Form2.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmAlert.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmBins.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.FrmFinishTicket.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmGTNTicket.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.Form1.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmManualWeight.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmRecieving.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSaving.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSelectVarieties.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetupOptions.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmShipping.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmTicketDetails.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\NWGrain.frmWait.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPassword.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmInputBox.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.Headers.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.Inventory.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmPrint_Copies.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.Properties.Resources.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.frmSetup.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.Ticket_Details.resources
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.GenerateResource.cache
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CoreCompileInputs.cache
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.csproj.CopyComplete
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.exe
+D:\SourceCode\PC\SeedStorage1_3_0_0\Seed_Storage\obj\x86\Debug\Seed_Storage.pdb
